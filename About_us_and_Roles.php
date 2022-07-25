@@ -298,7 +298,7 @@ if(isset($_SESSION["lg"])) //die('');
 		</div>
 						<div id="footer" style="border-style: solid; border-width: 1px; padding-left: 1px; padding-right:
 						1px; padding-top: 1px; padding-bottom: 1px"><br>
-	&nbsp;&nbsp; Created by Jurijus Pacalovas <a href="https://github.com/pjmidgard/White_hole_1.0.0.2.0 ">https://github.com/pjmidgard/White_hole_1.0.0.2.0</a> Spring-84 Compression Software<br>
+	&nbsp;&nbsp; Created by Jurijus Pacalovas <br>
 	&nbsp;&nbsp;
 						</div>
 			<br><br>
